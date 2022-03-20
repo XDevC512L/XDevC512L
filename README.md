@@ -6,12 +6,6 @@ Backend developer and Linux SysAdmin.
 Currently working at [A3com](https://a3com.es).  
 You can contact me through the contact email in my GitHub account.
 #### Main Skills ⚙️
-##### Programming Languages 🔧
-- Kotlin
-- Java
-- PHP
-- TypeScript
-- ECMAScript
 ##### DevOps 🛠️
 - Linux
 - Docker
@@ -22,12 +16,3 @@ You can contact me through the contact email in my GitHub account.
 - Spring Framework 5
 - MySQL/MariaDB
 - Database Design
-
-##### Frontend technologies 🎨
-- Vue.js
-- Vuetify
-##### Mobile technologies 📱
-- AndroidX
-##### IDEs I love 🖥️
-- Visual Studio Code
-- IntelliJ IDEA Community Edition
