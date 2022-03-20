@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there 👋
+Welcome to my GitHub profile :)
+# Main specialization 🧑‍💻
+Backend developer and Linux SysAdmin
+# Status 📊
+Currently working at [A3com](https://a3com.es).  
+You can contact me through the contact email in my GitHub account.
+# Main Skills ⚙️
+## Programming Languages 🔧
+- Kotlin
+- Java
+- PHP
+- TypeScript
+- ECMAScript
+## DevOps 🛠️
+- Linux
+- Docker
+- Kubernetes
+- Vagrant
+- Ansible (learning right now)
+## Backend techologies 🔨
+- Spring Framework 5
+- MySQL/MariaDB
+- Database Design
 
-<!--
-**XDevC512L/XDevC512L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frontend technologies 🎨
+- Vue.js
+- Vuetify
+## Mobile technologies 📱
+- AndroidX
+## IDEs I love 🖥️
+- Visual Studio Code
+- IntelliJ IDEA Community Edition
